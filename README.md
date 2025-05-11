@@ -1,1 +1,1 @@
-# NLP-Project-URL-Spam-Classifier
+# NLP-Project-URL-Phishing-Classifier
